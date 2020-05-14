@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>BWlo.Helpers</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>BWlo.CustomerLib</PackageId>
+    <Authors>BWlo</Authors>
+    <Description>Library for easy making customers</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.3</Version>
+  </PropertyGroup>
+
+</Project>
